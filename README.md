@@ -100,7 +100,7 @@ npm start
 - Nicolás Muros. [Github](https://github.com/nicomuros) [LinkedIn](https://www.linkedin.com/in/npmuros/)
 -
 -
--
+- Albano Calamara https://www.linkedin.com/in/albano-calamara-0122691a2/
 -
 -
 -
